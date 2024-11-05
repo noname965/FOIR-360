@@ -4,9 +4,7 @@
 This repository provides the 360Rank dataset.
 360Rank is a importance object ranking dataset of 500 images
 
-The dataset establishment process are illustrated in the following figure.
-![](https://github.com/MinglangQiao/SalSOD/blob/main/fig/database_build.png)
-
+### 
 
 ### Example - rank annotation
 
