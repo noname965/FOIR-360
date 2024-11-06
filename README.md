@@ -26,6 +26,7 @@ This repository provides the 360Rank dataset.
 Step 1. `Local View Rank Computation.` --> Step 2. `Iteratively Erase the Object with the Highest Rank.` --> Step 3. `Local Rank Collector.`
 
 # PanoRank network
+<div align=center><img src="./net.png"/></div>
 
 # Evaluation of our method
 <div align=center><img src="./res.png"/></div>
