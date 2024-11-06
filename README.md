@@ -7,7 +7,8 @@ The training and testing experiments are conducted using PyTorch 1.10.0 with a s
 * torchvision
 
 # Annotation Tools
-  
+ We developed an instance-level ranking annotation protocol to assist volunteers in the annotation process. The specific tools are located in the Annotation Tool folder, and detailed usage instructions can be found in the txt file.
+
 # 360Rank dataset
 
 This repository provides the 360Rank dataset.
