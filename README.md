@@ -8,7 +8,7 @@ This repository provides the 360Rank dataset.
 
 ### Example
 
-<div align=center><img width="400" height="400" src="https://github.com/noname965/FOIR-360/dataset-end.pdf"/></div>
+<div align=center><img width="400" height="400" src="https://github.com/noname965/FOIR-360/dataset.png"/></div>
 
 
 ## Download dataset
