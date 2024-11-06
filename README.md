@@ -8,7 +8,7 @@ The training and testing experiments are conducted using PyTorch 1.10.0 with a s
 
 # Annotation Tools
  We developed an instance-level ranking annotation protocol to assist volunteers in the annotation process. The specific tools are located in the Annotation Tool folder, and detailed usage instructions can be found in the txt file.
- Our annotation tool is simple and intuitive, enhancing both annotation efficiency and accuracy. The interface is primarily implemented with PyQt5. Simply click on main.exe to start annotating. You can replace any image and segmentation mask you wish to annotate.
+ Our annotation tool is simple and intuitive, enhancing both annotation efficiency and accuracy. The interface is primarily implemented with PyQt5. Simply click on **Tool.exe** to start annotating. You can replace any image and segmentation mask you wish to annotate.
 
 # 360Rank dataset
 
