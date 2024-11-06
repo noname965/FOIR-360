@@ -23,7 +23,7 @@ This repository provides the 360Rank dataset.
 360Rank database can be downloaded from [BiaduPan](https://pan.baidu.com/s/1uqMPyqj4pznHZc7t4MYhKw)(key:hejz).
 
 # Our Weak-Supervision method
-
+Step 1. `Local View Rank Computation.` --> Step 2. `Iteratively Erase the Object with the Highest Rank.` --> Step 3. `Local Rank Collector.`
 
 # PanoRank network
 
