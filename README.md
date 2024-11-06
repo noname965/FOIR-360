@@ -1,4 +1,11 @@
 # FOIR-360
+# Prerequisites
+The training and testing experiments are conducted using PyTorch 1.10.0 with a single GeForce RTX 3090 GPU with 24GB Memory.
+* Windows
+* CUDA v11.1, cudnn v.7.5.0
+* PyTorch 1.10.0
+* torchvision
+* 
 # 360Rank dataset
 
 This repository provides the 360Rank dataset.
