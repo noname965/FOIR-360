@@ -5,7 +5,7 @@ The training and testing experiments are conducted using PyTorch 1.10.0 with a s
 * CUDA v11.1, cudnn v.7.5.0
 * PyTorch 1.10.0
 * torchvision
-* 
+  
 # 360Rank dataset
 
 This repository provides the 360Rank dataset.
