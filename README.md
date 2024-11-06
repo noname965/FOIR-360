@@ -15,7 +15,7 @@ This repository provides the 360Rank dataset.
 
 ### Example
 
-<div align=center><img width="400" height="400" src="./dataset.png"/></div>
+<div align=center><img src="./dataset.png"/></div>
 
 
 ## Download dataset
