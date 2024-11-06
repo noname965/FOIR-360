@@ -8,7 +8,7 @@ This repository provides the 360Rank dataset.
 
 ### Example - rank annotation
 
-![](https://github.com/MinglangQiao/SalSOD/blob/main/fig/saliency/all_method_combined_imgs.png)
+![]([(https://github.com/noname965/FOIR-360/dataset-end.pdf)
 
 
 ## Download dataset
