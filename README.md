@@ -6,7 +6,7 @@ The training and testing experiments are conducted using PyTorch 1.10.0 with a s
 * PyTorch 1.10.0
 * Torchvision
 
-# Annotation Tools
+# Annotation Tool
  We developed an instance-level ranking annotation protocol to assist volunteers in the annotation process. The specific tools are located in the Annotation Tool folder, and detailed usage instructions can be found in the txt file.
  Our annotation tool is simple and intuitive, enhancing both annotation efficiency and accuracy. The interface is primarily implemented with PyQt5. Simply click on **Tool.exe** to start annotating. You can replace any image and segmentation mask you wish to annotate.
 
@@ -25,7 +25,7 @@ This repository provides the 360Rank dataset.
 # Our Weak-Supervision Method
 Step 1. `Local View Rank Computation.` --> Step 2. `Iteratively Erase the Object with the Highest Rank.` --> Step 3. `Local Rank Collector.`
 
-# PanoRank network
+# PanoRank Network
 <div align=center><img src="./net.png"/></div>
 
 # Evaluation of Our Method
