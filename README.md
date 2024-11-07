@@ -13,7 +13,7 @@ The training and testing experiments are conducted using PyTorch 1.10.0 with a s
 # 360Rank Dataset
 
 This repository provides the 360Rank dataset.
-360Rank is a importance object ranking dataset of 500 images
+360Rank is a  object importance ranking dataset of 500 images.
 
 ### Example
 
